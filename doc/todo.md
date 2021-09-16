@@ -1,6 +1,9 @@
 ToDo
 ====
 
+- attribute on hatch element selects route
+    - direct route
+    - mapping name->route
 - script to embedd 
     - scan `<*-widget-*>` tags
     - handle document mutations
